@@ -1,3 +1,4 @@
 ### veterapp_react
-##app de citas veterinarias
-#hecha con amor 
+App de citas veterinarias
+
+créditos a @codigoconjuan 
